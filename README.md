@@ -32,7 +32,7 @@
 
 <br/>
 
-**Author:** [Md Khadem Ali](https://khademali.com) · **Portfolio:** [khademali.com](https://khademali.com)
+**Author:** [Md Khadem Ali](https://khademali.com) · **Portfolio:** [www.khademali.com](https://khademali.com)
 
 </div>
 
@@ -42,7 +42,7 @@
 
 This project presents a **comprehensive, research-grade geospatial supply chain and logistics optimization framework** that integrates Geographic Information Systems (GIS), graph-theoretic network analysis, operations research, and machine learning into a single reproducible pipeline. Using real road network data sourced from OpenStreetMap via OSMnx and statistically calibrated synthetic demand data, the framework addresses six fundamental logistics challenges: facility location optimization, capacitated vehicle routing, demand forecasting, spatial clustering for zone design, supply chain resilience simulation, and multi-criteria spatial decision analysis.
 
-The study area is **Nairobi, Kenya**, a rapidly growing African logistics hub, though the entire methodology is designed to generalize to any urban region worldwide. The framework is implemented as a 45-cell, 18-section Google Colab-compatible Jupyter Notebook spanning approximately 2,000 lines of documented, publication-quality Python code. It directly addresses four persistent gaps in the academic literature: the integration gap (combining FLP + VRP + ML + resilience in one pipeline), the reproducibility gap (fully open-source, open-data), the dynamic adaptation gap (extending beyond static models), and the developing-region gap (applying advanced methods outside the European/North American focus of most studies).
+The study area is **Nairobi, Kenya**, a rapidly growing African logistics hub, though the entire methodology is designed to generalize to any urban region worldwide. The framework is implemented as a 45-cell, 16-section Google Colab-compatible Jupyter Notebook spanning approximately 2,000 lines of documented, publication-quality Python code. It directly addresses four persistent gaps in the academic literature: the integration gap (combining FLP + VRP + ML + resilience in one pipeline), the reproducibility gap (fully open-source, open-data), the dynamic adaptation gap (extending beyond static models), and the developing-region gap (applying advanced methods outside the European/North American focus of most studies).
 
 ---
 
@@ -381,7 +381,7 @@ without explicit written permission from the author is prohibited.
 ```
 
 For permissions, collaborations, or academic inquiries, contact via:
-- **Website:** [khademali.com](https://khademali.com)
+- **Website:** [www.khademali.com](https://khademali.com)
 
 ---
 
