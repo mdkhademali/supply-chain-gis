@@ -373,15 +373,15 @@ If you use this project in your research, teaching, or development work, please 
 
 This project draws upon the foundational work of several research communities and open-source ecosystems:
 
-- **OSMnx** — B. Boeing (2017). OSMnx: New methods for acquiring, constructing, analyzing, and visualizing complex street networks. *Computers, Environment and Urban Systems*, 65, 126–139.
-- **NetworkX** — A. A. Hagberg, D. A. Schult, P. J. Swart (2008). Exploring network structure, dynamics, and function using NetworkX. *Proceedings of SciPy*.
-- **OpenStreetMap** — OpenStreetMap contributors, available under the Open Database License. https://www.openstreetmap.org/copyright
-- **scikit-learn** — F. Pedregosa et al. (2011). Scikit-learn: Machine Learning in Python. *Journal of Machine Learning Research*, 12, 2825–2830.
-- **GeoPandas** — K. Jordahl et al. (2020). geopandas/geopandas. *Zenodo*. https://doi.org/10.5281/zenodo.3946761
-- **P-Median Model** — C. S. ReVelle & R. W. Swain (1970). Central facilities location. *Geographical Analysis*, 2(1), 30–42.
-- **Clarke-Wright Algorithm** — G. Clarke & J. W. Wright (1964). Scheduling of vehicles from a central depot to a number of delivery points. *Operations Research*, 12(4), 568–581.
-- **AHP** — T. L. Saaty (1980). *The Analytic Hierarchy Process*. McGraw-Hill.
-- **Resilience Framework** — M. Bruneau et al. (2003). A framework to quantitatively assess and enhance the seismic resilience of communities. *Earthquake Spectra*, 19(4), 733–752.
+- **OSMnx**: B. Boeing (2017). OSMnx: New methods for acquiring, constructing, analyzing, and visualizing complex street networks. *Computers, Environment and Urban Systems*, 65, 126–139.
+- **NetworkX**: A. A. Hagberg, D. A. Schult, P. J. Swart (2008). Exploring network structure, dynamics, and function using NetworkX. *Proceedings of SciPy*.
+- **OpenStreetMap**: OpenStreetMap contributors, available under the Open Database License. https://www.openstreetmap.org/copyright
+- **scikit-learn**: F. Pedregosa et al. (2011). Scikit-learn: Machine Learning in Python. *Journal of Machine Learning Research*, 12, 2825–2830.
+- **GeoPandas**: K. Jordahl et al. (2020). geopandas/geopandas. *Zenodo*. https://doi.org/10.5281/zenodo.3946761
+- **P-Median Model**: C. S. ReVelle & R. W. Swain (1970). Central facilities location. *Geographical Analysis*, 2(1), 30–42.
+- **Clarke-Wright Algorithm**: G. Clarke & J. W. Wright (1964). Scheduling of vehicles from a central depot to a number of delivery points. *Operations Research*, 12(4), 568–581.
+- **AHP**: T. L. Saaty (1980). *The Analytic Hierarchy Process*. McGraw-Hill.
+- **Resilience Framework**: M. Bruneau et al. (2003). A framework to quantitatively assess and enhance the seismic resilience of communities. *Earthquake Spectra*, 19(4), 733–752.
 
 ---
 
