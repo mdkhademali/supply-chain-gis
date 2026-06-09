@@ -38,28 +38,6 @@
 
 ---
 
-## Table of Contents
-
-- [Abstract](#-abstract)
-- [Key Features](#-key-features)
-- [Methodology Workflow](#-methodology-workflow)
-- [Project Architecture](#-project-architecture)
-- [Technologies Used](#-technologies-used)
-- [Installation](#-installation)
-- [Google Colab Usage](#-google-colab-usage)
-- [Project Structure](#-project-structure)
-- [Notebook Sections](#-notebook-sections)
-- [Outputs and Visualizations](#-outputs-and-visualizations)
-- [Research Significance](#-research-significance)
-- [Real-World Applications](#-real-world-applications)
-- [Future Improvements](#-future-improvements)
-- [Citation](#-citation)
-- [Acknowledgements](#-acknowledgements)
-- [License](#-license)
-- [Copyright](#-copyright)
-
----
-
 ## Abstract
 
 This project presents a **comprehensive, research-grade geospatial supply chain and logistics optimization framework** that integrates Geographic Information Systems (GIS), graph-theoretic network analysis, operations research, and machine learning into a single reproducible pipeline. Using real road network data sourced from OpenStreetMap via OSMnx and statistically calibrated synthetic demand data, the framework addresses six fundamental logistics challenges: facility location optimization, capacitated vehicle routing, demand forecasting, spatial clustering for zone design, supply chain resilience simulation, and multi-criteria spatial decision analysis.
