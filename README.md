@@ -21,13 +21,6 @@
 
 <br/>
 
-[![Stars](https://img.shields.io/github/stars/khademali/geospatial-supply-chain-optimization?style=flat-square&color=ffd93d)](https://github.com/mdkhademali/geospatial-supply-chain-optimization/stargazers)
-[![Forks](https://img.shields.io/github/forks/khademali/geospatial-supply-chain-optimization?style=flat-square&color=4d96ff)](https://github.com/mdkhademali/geospatial-supply-chain-optimization/network/members)
-[![Issues](https://img.shields.io/github/issues/khademali/geospatial-supply-chain-optimization?style=flat-square&color=ff6b6b)](https://github.com/mdkhademali/geospatial-supply-chain-optimization/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/khademali/geospatial-supply-chain-optimization?style=flat-square&color=6bcb77)](https://github.com/mdkhademali/geospatial-supply-chain-optimization/commits)
-
-<br/>
-
 > *"The efficiency of a supply chain is only as strong as the spatial intelligence that guides it."*
 
 <br/>
