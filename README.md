@@ -9,6 +9,8 @@
 
 <br/>
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20603145.svg)](https://doi.org/10.5281/zenodo.20603145)
+
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Colab](https://img.shields.io/badge/Google-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
@@ -23,8 +25,6 @@
 [![Forks](https://img.shields.io/github/forks/khademali/geospatial-supply-chain-optimization?style=flat-square&color=4d96ff)](https://github.com/mdkhademali/geospatial-supply-chain-optimization/network/members)
 [![Issues](https://img.shields.io/github/issues/khademali/geospatial-supply-chain-optimization?style=flat-square&color=ff6b6b)](https://github.com/mdkhademali/geospatial-supply-chain-optimization/issues)
 [![Last Commit](https://img.shields.io/github/last-commit/khademali/geospatial-supply-chain-optimization?style=flat-square&color=6bcb77)](https://github.com/mdkhademali/geospatial-supply-chain-optimization/commits)
-[![Notebook](https://img.shields.io/badge/cells-45%20cells-c77dff?style=flat-square)](supply_chain_gis_optimization.ipynb)
-[![Sections](https://img.shields.io/badge/sections-16%20sections-58a6ff?style=flat-square)](supply_chain_gis_optimization.ipynb)
 
 <br/>
 
@@ -41,8 +41,6 @@
 ## Abstract
 
 This project presents a **comprehensive, research-grade geospatial supply chain and logistics optimization framework** that integrates Geographic Information Systems (GIS), graph-theoretic network analysis, operations research, and machine learning into a single reproducible pipeline. Using real road network data sourced from OpenStreetMap via OSMnx and statistically calibrated synthetic demand data, the framework addresses six fundamental logistics challenges: facility location optimization, capacitated vehicle routing, demand forecasting, spatial clustering for zone design, supply chain resilience simulation, and multi-criteria spatial decision analysis.
-
-The study area is **Nairobi, Kenya**, a rapidly growing African logistics hub, though the entire methodology is designed to generalize to any urban region worldwide. The framework is implemented as a 45-cell, 16-section Google Colab-compatible Jupyter Notebook spanning approximately 2,000 lines of documented, publication-quality Python code. It directly addresses four persistent gaps in the academic literature: the integration gap (combining FLP + VRP + ML + resilience in one pipeline), the reproducibility gap (fully open-source, open-data), the dynamic adaptation gap (extending beyond static models), and the developing-region gap (applying advanced methods outside the European/North American focus of most studies).
 
 ---
 
