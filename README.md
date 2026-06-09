@@ -335,8 +335,6 @@ If you use this project in your research, teaching, or development work, please 
   year         = {2026},
   howpublished = {GitHub repository},
   url          = {https://github.com/mdkhademali/geospatial-supply-chain-optimization},
-  note         = {Research-grade Jupyter Notebook: 45 cells,
-                  18 sections, Nairobi case study}
 }
 ```
 
