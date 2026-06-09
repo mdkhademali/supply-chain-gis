@@ -21,10 +21,6 @@
 
 <br/>
 
-> *"The efficiency of a supply chain is only as strong as the spatial intelligence that guides it."*
-
-<br/>
-
 **Author:** [Md Khadem Ali](https://khademali.com) · **Portfolio:** [www.khademali.com](https://khademali.com)
 
 </div>
