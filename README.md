@@ -391,7 +391,7 @@ For permissions, collaborations, or academic inquiries, contact via:
 
 **Md Khadem Ali** · Geospatial Analyst & Supply Chain Specialist
 
-[![Website](https://img.shields.io/badge/Portfolio-khademali.com-1f6feb?style=flat-square&logo=googlechrome&logoColor=white)](https://khademali.com)
+[![Website](https://img.shields.io/badge/Portfolio-www.khademali.com-1f6feb?style=flat-square&logo=googlechrome&logoColor=white)](https://khademali.com)
 
 <br/>
 
