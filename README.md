@@ -19,12 +19,12 @@
 
 <br/>
 
-[![Stars](https://img.shields.io/github/stars/khademali/supply-chain-gis?style=flat-square&color=ffd93d)](https://github.com/khademali/supply-chain-gis/stargazers)
-[![Forks](https://img.shields.io/github/forks/khademali/supply-chain-gis?style=flat-square&color=4d96ff)](https://github.com/khademali/supply-chain-gis/network/members)
-[![Issues](https://img.shields.io/github/issues/khademali/supply-chain-gis?style=flat-square&color=ff6b6b)](https://github.com/khademali/supply-chain-gis/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/khademali/supply-chain-gis?style=flat-square&color=6bcb77)](https://github.com/khademali/supply-chain-gis/commits)
+[![Stars](https://img.shields.io/github/stars/khademali/geospatial-supply-chain-optimization?style=flat-square&color=ffd93d)](https://github.com/mdkhademali/geospatial-supply-chain-optimization/stargazers)
+[![Forks](https://img.shields.io/github/forks/khademali/geospatial-supply-chain-optimization?style=flat-square&color=4d96ff)](https://github.com/mdkhademali/geospatial-supply-chain-optimization/network/members)
+[![Issues](https://img.shields.io/github/issues/khademali/geospatial-supply-chain-optimization?style=flat-square&color=ff6b6b)](https://github.com/mdkhademali/geospatial-supply-chain-optimization/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/khademali/geospatial-supply-chain-optimization?style=flat-square&color=6bcb77)](https://github.com/mdkhademali/geospatial-supply-chain-optimization/commits)
 [![Notebook](https://img.shields.io/badge/cells-45%20cells-c77dff?style=flat-square)](supply_chain_gis_optimization.ipynb)
-[![Sections](https://img.shields.io/badge/sections-18%20sections-58a6ff?style=flat-square)](supply_chain_gis_optimization.ipynb)
+[![Sections](https://img.shields.io/badge/sections-16%20sections-58a6ff?style=flat-square)](supply_chain_gis_optimization.ipynb)
 
 <br/>
 
@@ -325,7 +325,7 @@ The following extensions are planned or proposed for subsequent research phases:
 If you use this project in your research, teaching, or development work, please cite it as follows:
 
 **APA Style:**
-> Ali, M. K. (2026). *Geospatial Supply Chain and Logistics Optimization using GIS, Network Analysis, Machine Learning, and Spatial Intelligence* [Research notebook]. GitHub. https://github.com/mdkhademali/supply-chain-gis
+> Ali, M. K. (2026). *Geospatial Supply Chain and Logistics Optimization using GIS, Network Analysis, Machine Learning, and Spatial Intelligence* [Research notebook]. GitHub. https://github.com/mdkhademali/geospatial-supply-chain-optimization
 
 **BibTeX:**
 ```bibtex
@@ -336,14 +336,14 @@ If you use this project in your research, teaching, or development work, please 
                   and Spatial Intelligence},
   year         = {2026},
   howpublished = {GitHub repository},
-  url          = {https://github.com/mdkhademali/supply-chain-gis},
+  url          = {https://github.com/mdkhademali/geospatial-supply-chain-optimization},
   note         = {Research-grade Jupyter Notebook: 45 cells,
                   18 sections, Nairobi case study}
 }
 ```
 
 **IEEE Style:**
-> M. K. Ali, "Geospatial Supply Chain and Logistics Optimization using GIS, Network Analysis, Machine Learning, and Spatial Intelligence," GitHub, 2026. [Online]. Available: https://github.com/mdkhademali/supply-chain-gis
+> M. K. Ali, "Geospatial Supply Chain and Logistics Optimization using GIS, Network Analysis, Machine Learning, and Spatial Intelligence," GitHub, 2026. [Online]. Available: https://github.com/mdkhademali/geospatial-supply-chain-optimization
 
 ---
 
