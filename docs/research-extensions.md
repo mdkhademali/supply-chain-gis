@@ -1,8 +1,4 @@
 ---
-# Section 17: MSc and PhD Research Extensions
-
-## 17.1 Ten MSc Thesis Topics
-
 | # | Topic | Methods | Data |
 |---|-------|---------|------|
 | 1 | GIS-Based Last-Mile Delivery Optimisation in [Your City] | VRP + OSMnx + KDE | OSM, GPS |

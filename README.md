@@ -281,16 +281,16 @@ All figures are generated with a consistent dark-theme aesthetic (`#0d1117` back
 This project makes **four concrete contributions** to the academic literature on geospatial supply chain optimization:
 
 **1. Integration Contribution**
-The vast majority of published studies address facility location, vehicle routing, or ML forecasting in isolation. This framework is one of the few to combine all three within a unified, reproducible geospatial pipeline — alongside resilience simulation and MCDA.
+The vast majority of published studies address facility location, vehicle routing, or ML forecasting in isolation. This framework is one of the few to combine all three within a unified, reproducible geospatial pipeline, alongside resilience simulation and MCDA.
 
 **2. Reproducibility Contribution**
 All data is either sourced from open platforms (OpenStreetMap) or generated synthetically with fixed random seeds and documented statistical parameters. Every methodological choice is explained, enabling full replication or adaptation by other researchers.
 
 **3. Developing-Region Contribution**
-Most GIS logistics research is concentrated on European and North American cities. By demonstrating the framework on Nairobi, Kenya, this project contributes to the growing body of work on Sub-Saharan African urban logistics — a region experiencing rapid supply chain development with limited academic coverage.
+Most GIS logistics research is concentrated on European and North American cities. By demonstrating the framework on Nairobi, Kenya, this project contributes to the growing body of work on Sub-Saharan African urban logistics, a region experiencing rapid supply chain development with limited academic coverage.
 
 **4. Pedagogical Contribution**
-The notebook's 18-section structure — each with theory, code, and interpretation — makes it an effective educational resource for GIS, operations research, and data science courses at the graduate level.
+The notebook's 18-section structure, each with theory, code, and interpretation, makes it an effective educational resource for GIS, operations research, and data science courses at the graduate level.
 
 ### Methodological Rigor
 
@@ -347,7 +347,7 @@ The following extensions are planned or proposed for subsequent research phases:
 If you use this project in your research, teaching, or development work, please cite it as follows:
 
 **APA Style:**
-> Ali, M. K. (2026). *Geospatial Supply Chain and Logistics Optimization using GIS, Network Analysis, Machine Learning, and Spatial Intelligence* [Research notebook]. GitHub. https://github.com/khademali/supply-chain-gis
+> Ali, M. K. (2026). *Geospatial Supply Chain and Logistics Optimization using GIS, Network Analysis, Machine Learning, and Spatial Intelligence* [Research notebook]. GitHub. https://github.com/mdkhademali/supply-chain-gis
 
 **BibTeX:**
 ```bibtex
@@ -358,14 +358,14 @@ If you use this project in your research, teaching, or development work, please 
                   and Spatial Intelligence},
   year         = {2026},
   howpublished = {GitHub repository},
-  url          = {https://github.com/khademali/supply-chain-gis},
+  url          = {https://github.com/mdkhademali/supply-chain-gis},
   note         = {Research-grade Jupyter Notebook: 45 cells,
                   18 sections, Nairobi case study}
 }
 ```
 
 **IEEE Style:**
-> M. K. Ali, "Geospatial Supply Chain and Logistics Optimization using GIS, Network Analysis, Machine Learning, and Spatial Intelligence," GitHub, 2026. [Online]. Available: https://github.com/khademali/supply-chain-gis
+> M. K. Ali, "Geospatial Supply Chain and Logistics Optimization using GIS, Network Analysis, Machine Learning, and Spatial Intelligence," GitHub, 2026. [Online]. Available: https://github.com/mdkhademali/supply-chain-gis
 
 ---
 
@@ -387,7 +387,7 @@ This project draws upon the foundational work of several research communities an
 
 ## License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for full terms.
+This project is licensed under the **MIT License**, see the [LICENSE](LICENSE) file for full terms.
 
 ---
 
